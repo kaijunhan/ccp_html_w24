@@ -1,2 +1,2 @@
-# ccp_html_w24
-my submission for ccp_html project
+# ccp_starter_code
+Starter Code for your CCP 
